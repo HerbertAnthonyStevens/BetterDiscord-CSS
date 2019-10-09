@@ -67,6 +67,7 @@ Timestamps lower brightness
     opacity: 0.7;
 }
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_timestamps.png)
 
 Squared VC member count
 ```css
