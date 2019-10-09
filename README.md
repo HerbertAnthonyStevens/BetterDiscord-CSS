@@ -60,6 +60,11 @@ Shadowed theme
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 }
 ```
+![Preview1](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_shadow1.png)
+
+![Preview2](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_shadow2.png)
+
+![Preview3](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_shadow3.png)
 
 Timestamps lower brightness
 ```css
