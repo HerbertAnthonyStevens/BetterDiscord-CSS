@@ -23,6 +23,7 @@ Lower server notification bubble brightness
     opacity: 0.5;
 }
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_pill.png)
 
 Squared roles in User popout
 ```css
