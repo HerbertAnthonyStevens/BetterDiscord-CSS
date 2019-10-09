@@ -51,7 +51,7 @@ Squared, slighly elevated Bot & Live Tags
 
 Shadowed theme
 ```css
-.icon-3o6xvg, .avatar-17mtNa, .avatar-3uk_u9, .avatar-3elDyV, .wrapper-3t9DeA {
+.icon-3o6xvg, .avatar-17mtNa, .avatar-3uk_u9, .avatar-3elDyV, .wrapper-3t9DeA, .embedAuthorIcon--1zR3L {
     border-radius: 100%;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 }
