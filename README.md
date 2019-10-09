@@ -49,13 +49,6 @@ Squared, slighly elevated Bot & Live Tags
 ```
 ![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_tags.png)
 
-Remove blocked messages completely
-```css
-.messageGroupBlocked-3wrQQX , .messageGroupBlockedBtn-1PBBh- {
-    display:none
-}
-```
-
 Shadowed theme
 ```css
 .icon-3o6xvg, .avatar-17mtNa, .avatar-3uk_u9, .avatar-3elDyV, .wrapper-3t9DeA {
