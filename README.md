@@ -51,3 +51,11 @@ Squared, slighly elevated Bot & Live Tags
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
 }
 ```
+
+Remove blocked messages completely
+```css
+.messageGroupBlocked-3wrQQX , .messageGroupBlockedBtn-1PBBh- {
+    display:none
+}
+```
+
