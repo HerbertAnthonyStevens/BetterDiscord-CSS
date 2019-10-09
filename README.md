@@ -15,6 +15,7 @@ Hide Nitro gift button in message bar
     display: none;
 }
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_gifting.png)
 
 Lower server notification bubble brightness
 ```css
