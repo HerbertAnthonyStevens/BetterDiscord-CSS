@@ -75,3 +75,4 @@ Squared VC member count
     border-radius: 2px;
 }
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_vccount.png)
