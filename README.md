@@ -47,6 +47,7 @@ Squared, slighly elevated Bot & Live Tags
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
 }
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_tags.png)
 
 Remove blocked messages completely
 ```css
