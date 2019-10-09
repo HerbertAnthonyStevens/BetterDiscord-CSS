@@ -6,8 +6,8 @@ Hide Protip on User popout
 .footer-1fjuF6 {
     display: none;
 }
-
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css.png)
 
 Hide Nitro gift button in message bar
 ```css
