@@ -35,3 +35,15 @@ Squared roles in User popout
     height: 10px;
 }
 ```
+
+Squared, slighly elevated Bot & Live Tags
+```css
+.botTagRegular-2HEhHi {
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+}
+.liveRed-lUmv1v {
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
+}
+```
