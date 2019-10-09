@@ -7,7 +7,7 @@ Hide Protip on User popout
     display: none;
 }
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css.png)
 
 Hide Nitro gift button in message bar
 ```css
@@ -15,7 +15,7 @@ Hide Nitro gift button in message bar
     display: none;
 }
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_gifting.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_gifting.png)
 
 Lower server notification bubble brightness
 ```css
@@ -23,7 +23,7 @@ Lower server notification bubble brightness
     opacity: 0.5;
 }
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_pill.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_pill.png)
 
 Squared roles in User popout
 ```css
@@ -38,7 +38,7 @@ Squared roles in User popout
 }
 
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_roles.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_roles.png)
 
 Squared, slighly elevated Bot & Live Tags
 ```css
@@ -47,7 +47,7 @@ Squared, slighly elevated Bot & Live Tags
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
 }
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_tags.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_tags.png)
 
 Shadowed theme
 ```css
@@ -60,11 +60,11 @@ Shadowed theme
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 }
 ```
-![Preview1](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_shadow1.png)
+![Preview1](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_shadow1.png)
 
-![Preview2](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_shadow2.png)
+![Preview2](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_shadow2.png)
 
-![Preview3](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_shadow3.png)
+![Preview3](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_shadow3.png)
 
 Timestamps lower brightness
 ```css
@@ -72,7 +72,7 @@ Timestamps lower brightness
     opacity: 0.7;
 }
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_timestamps.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_timestamps.png)
 
 Squared VC member count
 ```css
@@ -80,4 +80,4 @@ Squared VC member count
     border-radius: 2px;
 }
 ```
-![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_vccount.png)
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/images/css_vccount.png)
