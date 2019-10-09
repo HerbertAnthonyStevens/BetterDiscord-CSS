@@ -57,6 +57,7 @@ Shadowed theme
     border-radius: 100%;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 }
+
 .gameIcon-gg34Dz, .assetsLargeImageUserPopout-3Pp8BK, .assetsLargeImageProfile-3YXDex, .assetsLargeImage-eYwpTX {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 }
