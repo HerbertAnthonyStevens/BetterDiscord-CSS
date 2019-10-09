@@ -38,15 +38,7 @@ Squared roles in User popout
 
 Squared, slighly elevated Bot & Live Tags
 ```css
-.botTagRegular-2HEhHi {
-    border-radius: 2px;
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
-}
-.botTagInvert-18-95s {
-    border-radius: 2px;
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
-}
-.liveRed-lUmv1v {
+.botTagInvert-18-95s, .botTagRegular-2HEhHi, .liveRed-lUmv1v {
     border-radius: 2px;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.19);
 }
