@@ -36,7 +36,9 @@ Squared roles in User popout
     width: 10px;
     height: 10px;
 }
+
 ```
+![Preview](https://github.com/HerbertAnthonyStevens/BetterDiscord-CSS/blob/master/css_roles.png)
 
 Squared, slighly elevated Bot & Live Tags
 ```css
