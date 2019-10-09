@@ -15,3 +15,9 @@ Hide Nitro gift button in message bar
     display: none;
 }
 ```
+Lower server notification bubble brightness
+```css
+.pill-31IEus {
+    opacity: 0.5;
+}
+```
